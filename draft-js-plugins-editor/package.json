@@ -23,6 +23,7 @@
     "react-component"
   ],
   "scripts": {
+    "clean": "../node_modules/.bin/rimraf lib",
     "build": "BABEL_ENV=production ../node_modules/.bin/babel --out-dir='lib' --ignore='__tests__/*' src",
     "prepublish": "npm run build"
   },
