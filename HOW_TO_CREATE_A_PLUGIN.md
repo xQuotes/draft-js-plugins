@@ -148,7 +148,7 @@ A decorator can contain a `strategy` and a `component` e.g.
 
 You can read more about it in the original Draft.js documentation about [decorators](https://facebook.github.io/draft-js/docs/advanced-topics-decorators.html#compositedecorator).
 
-> 你可以阅读更多关于 Draft.js 的初始文档。
+> 你可以阅读更多关于 Draft.js 的初始文档[decorators](https://facebook.github.io/draft-js/docs/advanced-topics-decorators.html#compositedecorator)。
 
 ### `getAccessibilityProps`
 
