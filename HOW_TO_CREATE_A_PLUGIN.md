@@ -156,7 +156,7 @@ In some rare cases like @mentions or Emoji autocompletion a plugin should be abl
 This currently only allows to set `aria-has-popup` & `aria-expanded`. Let us know in case you have further suggestions.
 
 > 在一些罕见的情况下像 @mentions 或 Emoji 自动完成插件应该可以设置某些 ARIA 属性。
-这个目前只允许设置 “aria-has-popup” & “aria-expanded” 。让我们知道如果你有进一步的建议。
+这个目前只允许设置 “aria-has-popup” 和 “aria-expanded” 。让我们知道如果你有进一步的建议。
 
 # Further Information
 
